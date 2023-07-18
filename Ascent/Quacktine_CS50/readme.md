@@ -142,16 +142,16 @@ Follow the instructions below to install the necessary dependencies and run the 
 
 1. Install Python (if not already installed) from the official [Python website](https://www.python.org/).
 
-2. Clone or download the source code from the GitHub repository: [https://github.com/Aida-adzd/Quacktine_cs50.git](https://github.com/Aida-adzd/Quacktine_cs50.git).
+2. Clone or download the source code from the GitHub repository: [https://github.com/Aida-adzd/Bizz.git](https://github.com/Aida-adzd/Bizz.git).
 
 3. Navigate to the project directory.
    `$ cd Quacktine `
 
-4. (Optional) Create and activate a virtual environment to isolate the project dependencies.\
-   `$ python -m venv venv`\
+4. (Optional) Create and activate a virtual environment to isolate the project dependencies.
+   `$ python -m venv venv`
    `$ source venv/bin/activate`
 
-5. Install the required dependencies using pip.\
+5. Install the required dependencies using pip.
    `$ pip install -r requirements.txt`
 
 6. Run the program.\
@@ -160,5 +160,6 @@ Follow the instructions below to install the necessary dependencies and run the 
 7. Follow the usage instructions mentioned above to input table dimensions and values.
 
 <font size="3"> **online codespace**</font>
-1. visit the GitHub repository: https://github.com/Aida-adzd/Quacktine_cs50.git
+1. visit the GitHub repository: https://github.com/Aida-adzd/Bizz.git
 2. click on code and select open with codespace for run the program.
+ 
