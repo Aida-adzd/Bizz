@@ -148,7 +148,7 @@ Follow the instructions below to install the necessary dependencies and run the 
    `$ cd Ascent `\
    `$ cd Quacktine_CS50 `
 
-5. (Optional) Create and activate a virtual environment to isolate the project dependencies.
+5. (Optional) Create and activate a virtual environment to isolate the project dependencies.\
    `$ python -m venv venv`\
    `$ source venv/bin/activate`
 
