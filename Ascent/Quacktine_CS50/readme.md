@@ -108,7 +108,7 @@ To use this script, follow the steps below:
 
 4. Run the script by executing the following command:
    ```
-   python quacktine.py
+   python Quacktine.py
    ```
 5. Enter the input as per the instructions provided by the script.
 
@@ -140,13 +140,12 @@ You can run the program multiple times with different table configurations.
 Follow the instructions below to install the necessary dependencies and run the program:\
 <font size="3"> **local system**</font>
 
-1. Install Python (if not already installed) from the official [Python website](https://www.python.org/).\
+1. Install Python (if not already installed) from the official [Python website](https://www.python.org/).
 
-2. Clone or download the source code from the GitHub repository: [https://github.com/me50/Aida-adzd](https://github.com/me50/Aida-adzd).\
-   $ git clone https://github.com/your-username/Aida-adzd.git(اینجا کسشر است زیرا فایل آپلود نشده هنوز)
+2. Clone or download the source code from the GitHub repository: [https://github.com/Aida-adzd/Quacktine_cs50.git](https://github.com/Aida-adzd/Quacktine_cs50.git).
 
-3. Navigate to the project directory.\
-   `$ cd /path/to/Aida-adzd `
+3. Navigate to the project directory.
+   `$ cd Quacktine `
 
 4. (Optional) Create and activate a virtual environment to isolate the project dependencies.\
    `$ python -m venv venv`\
@@ -156,9 +155,10 @@ Follow the instructions below to install the necessary dependencies and run the 
    `$ pip install -r requirements.txt`
 
 6. Run the program.\
-   `$ python quacktine.py`
+   `$ python Quacktine.py`
 
 7. Follow the usage instructions mentioned above to input table dimensions and values.
 
-<font size="3"> **online codespace**</font>\
-bizzz
+<font size="3"> **online codespace**</font>
+1. visit the GitHub repository: https://github.com/Aida-adzd/Quacktine_cs50.git
+2. click on code and select open with codespace for run the program.
